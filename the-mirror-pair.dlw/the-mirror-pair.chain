@@ -4,6 +4,6 @@ slug  : the-mirror-pair
 seal  : 223f758b4132a47ce26e4eff5b78da0779e27805cf703cc406cc38798741adfd
 prev  : 9b780ff851ca33e8d07dae7abaaec4c7550db4b1e4af230aa807a8354dc72e3e
 link  : 0a51ba3fcae36349d113d33073873d5c3c79a40dd44d37c5e32d5332cff0ff9a
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
